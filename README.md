@@ -1,4 +1,7 @@
-# Olá, me chamo Bruno ! 
+
+<img width = "300" src="https://media.tenor.com/4O7tN5M-IaUAAAAd/adele-hello.gif">
+
+# Me chamo Bruno!
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Jr na C&A Modas
