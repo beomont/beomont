@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Jr na C&A Modas
-- 📫 Como entrar em contato comigo: Linkedin | E-mail| Instagram | Twitch.tv
+- 📫 Como entrar em contato comigo: Linkedin | Instagram | Twitch.tv
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Eu gosto de cantar :microphone:
 
@@ -17,10 +17,10 @@
 <a href="https://www.linkedin.com/in/bruno-santana-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br>
+
 <div>
 <a href="https://github.com/beomont">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beomont&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beomont&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/beomont/beomont/blob/output/github-contribution-grid-snake.svg)
